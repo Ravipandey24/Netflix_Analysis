@@ -11,6 +11,6 @@
       
  -> TextBlob is used for converting the content discription into a Sentimental value where <0 == "Negative", 0 == "Nuetral", >0 == "Positive".
  
- -> Plotly is used for pie chart and bar chart where as Pandas and Numpy for data processing.
+ -> Plotly is used for pie chart and bar chart whereas Pandas and Numpy for data processing.
  
    
